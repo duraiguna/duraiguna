@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @duraiguna
+- 👀 I’m interested in data science, ML & Website development...
+- 🌱 I’m currently learning python and django ...
+- 📫 How to reach me : simple! mail me at duraiguna7@gmail.com...
+
+<!---
+duraiguna/duraiguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
